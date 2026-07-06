@@ -104,3 +104,25 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+
+# ========================================== #
+# Visual Studio / VS Code                    #
+# ========================================== #
+.vs/
+.vsconfig
+*.vscode/
+
+# ========================================== #
+# Betriebssystem-Spezifisches                #
+# ========================================== #
+# Windows
+Thumbs.db
+Ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
